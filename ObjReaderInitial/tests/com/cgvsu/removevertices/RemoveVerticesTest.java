@@ -3,14 +3,8 @@ import com.cgvsu.math.Vector3f;
 import com.cgvsu.model.Model;
 import com.cgvsu.model.Polygon;
 
-import com.cgvsu.objreader.ObjReader;
 import org.junit.jupiter.api.Test;
-
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.ArrayList;
-
 import java.util.List;
 
 import static com.cgvsu.model.RemoveVertices.removeVertices;
